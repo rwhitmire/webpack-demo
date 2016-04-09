@@ -1,0 +1,19 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^0.2.3"
+  },
+  "devDependencies": {
+    "json-loader": "^0.5.4",
+    "webpack": "^1.12.14"
+  }
+}
